@@ -1,4 +1,4 @@
-# oii meu nome e Ana Flavia
+# olaa
 
 
 ##  Sobre mim
@@ -15,3 +15,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
 
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
