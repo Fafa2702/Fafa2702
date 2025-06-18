@@ -41,6 +41,8 @@ Atualmente estudo no Colégio COTEMIG e estou no 3º ano cursando Progamação d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+
 </div>
 
 ---
@@ -48,7 +50,7 @@ Atualmente estudo no Colégio COTEMIG e estou no 3º ano cursando Progamação d
 ##  Contato
 
 - ✉️ E-mail: [anaflaviafantini@gmail.com](anaflaviafantini@gmail.com)  
-- 🔗 LinkedIn: [Seu Nome no LinkedIn](https://www.linkedin.com/in/anaflavialobato)
+- 🔗 LinkedIn: [anaflavialobato](https://www.linkedin.com/in/anaflavialobato)
 
 
 
