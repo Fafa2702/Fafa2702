@@ -1,4 +1,4 @@
-# Olá! 👋
+# Oláa! 👋
 
 ## Sobre mim
 
@@ -42,6 +42,8 @@ Atualmente estudo no Colégio COTEMIG e estou no 3º ano cursando Progamação d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" />
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+
 
 </div>
 
