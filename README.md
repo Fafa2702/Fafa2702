@@ -31,7 +31,7 @@ Atualmente estudo no Colégio COTEMIG e estou no 3º ano cursando Progamação d
 
 ---
 
-## 🌱 O que estou aprendendo
+##  O que estou aprendendo
 
 <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
 
